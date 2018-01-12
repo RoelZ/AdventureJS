@@ -1,7 +1,9 @@
 # adventure-js
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project serves as the Ember version of our [adventure.txt](https://github.com/RoelZ/adventure.txt) game. Created by [Ricardo](https://github.com/20rr0), [Jerome](https://www.artstation.com/j-rom) and [Roel](https://github.com/RoelZ).
+
+Eventually the adventure.txt project will be transitioned into this project.
 
 ## Prerequisites
 
